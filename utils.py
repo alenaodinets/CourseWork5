@@ -1,6 +1,6 @@
 import psycopg2
 
-your_password = input('')
+your_password = input(f'')
 
 
 def create_db():

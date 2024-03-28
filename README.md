@@ -15,3 +15,5 @@ user=user
 password=password
 
 port=5432.
+
+Проект запускатся через main
